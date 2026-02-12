@@ -10,7 +10,7 @@ A sleek and efficient Python-based tool that allows users to download YouTube vi
 - **Clean Workspace:** Automatically manages download directories and file naming.
 
 ## Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.14.2
 - **Libraries:** - `pytubefix`: For interfacing with YouTube.
   - `moviepy` / `os`: For media processing and file management.
 
