@@ -18,7 +18,7 @@ A sleek and efficient Python-based tool that allows users to download YouTube vi
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/AtamertKoc/yt-mp3-converter.git](https://github.com/AtamertKoc/yt-mp3-converter.git)
+   git clone https://github.com/AtamertKoc/yt-mp3-converter.git
    cd yt-mp3-converter
 2. **Install Requirements:**
    ```bash
